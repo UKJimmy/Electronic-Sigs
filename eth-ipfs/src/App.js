@@ -89,7 +89,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Ethereum and IPFS with Create React</h1>
+          <h1>Secure File Upload & MetaMask Authentication</h1>
         </header>
 
         <hr />
